@@ -1,0 +1,5 @@
+opendatasets
+torch
+torchvision
+tqdm
+matplotlib
